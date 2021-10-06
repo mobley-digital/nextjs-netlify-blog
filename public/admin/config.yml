@@ -142,7 +142,7 @@ collections:
 
   - name: "posts2"
     label: "Posts"
-    folder: "content/posts/"
+    folder: "content/newpost/"
     extension: "mdx"
     format: "frontmatter"
     create: true
